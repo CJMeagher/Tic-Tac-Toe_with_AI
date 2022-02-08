@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It is a good rule, since <code>__str__</code> is used by programmers in debugging.
+- text: It is a good rule, since you won't create even a simple program without <code>__str__</code>.
+- text: It is a good rule, since your class won't work at all without <code>__str__</code>.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15535#comment
+status: Solved
+record: -1

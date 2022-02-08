@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # check whether SuperRobot is a subclass of AstromechDroid,
+    # MedicalDroid, BattleDroid, and PilotDroid
+
+    # the order is IMPORTANT
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9325#comment
+status: Solved
+record: -1

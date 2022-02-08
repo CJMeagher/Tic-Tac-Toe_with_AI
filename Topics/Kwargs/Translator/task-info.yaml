@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: "def translate(kwargs):\n    for word in words:\n        print(word1, \":\"\
+    , word2)\n\nwords = {\"mother\": \"madre\", \"father\": \"padre\", \n        \
+    \ \"grandmother\": \"abuela\", \"grandfather\": \"abuelo\"}\n\ntranslate(*words)"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15307#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 01 Feb 2022 05:04:43 UTC
+record: -1

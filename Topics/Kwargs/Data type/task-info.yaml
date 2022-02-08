@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: a non-empty list
+- text: a tuple
+- text: a string
+- text: a dictionary
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8562#comment
+status: Solved
+record: -1
